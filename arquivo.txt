@@ -1,0 +1,3 @@
+### Eventos do Asterisk :
+ Mon Aug 08 2022 21:32:33 GMT-0300 (GMT-03:00) 
+ {"event":"ContactStatus","privilege":"system,all","uri":"sip:1003@187.90.216.130:58260","contactstatus":"Removed","aor":"1003","endpointname":"1003","roundtripusec":"0"}
